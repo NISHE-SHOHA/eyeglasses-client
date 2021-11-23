@@ -1,0 +1,25 @@
+.icon {
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(245, 245, 245);
+    color: rgb(23, 67, 189);
+    font-size: 30px;
+  }
+  .footer-menu {
+    list-style: none;
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .footer-input {
+    padding: 8px;
+    border: none;
+    outline: none;
+    background-color: rgba(248, 245, 245, 0.931);
+  }
+  .footer-container {
+    background-color: #4a4a4d;
+    padding: 50px;
+    color: white;
+  }
+ 
